@@ -11,5 +11,5 @@ localhost
 [elk:vars]
 ansible_host=127.0.0.1
 ansible_user=root
-ansible_ssh_pass=test123
+ansible_ssh_pass=root
 ansible_connection=local
